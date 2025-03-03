@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @juli0144
-- 👀 I’m interested in Games, Animes, Mangas and degen stuff
-- 🌱 I’m currently learning Python and Projekt managing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Heya, I’m Juli (usually juli144)
+- I love learning stuff and building my own solutions for problems
+- I know and do python/micorpython but also make scripts in bash and customize my linux
+- Familiar with FreeCAD and OrcaSlicer, Blender, Unity and GIMP
+- Am gonna set up an E-Mail for git once I've taken care of other things
 
 <!---
 juli0144/juli0144 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
